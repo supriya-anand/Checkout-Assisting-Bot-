@@ -1,2 +1,2 @@
-# Checkout-Assisting-Bot-
-A bot that quickly checks out the orders on any website - for learning purpose only
+# Checkout-Assisting-Bot
+A bot that quickly assists the user while checking out the orders on any website - for learning purpose only
